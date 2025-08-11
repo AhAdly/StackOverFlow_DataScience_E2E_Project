@@ -5,6 +5,6 @@ setup(
     packages=find_packages(),
     version='0.1.0',
     description='Live illustration for cookie cutter ',
-    author='Deena gergis',
+    author='ahmed hassan',
     license='',
 )
